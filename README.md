@@ -26,8 +26,8 @@ I'm a 3rd-year ECE undergraduate at IIIT Tiruchirappalli focusing on data scienc
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Karangautam870&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Karangautam870&theme=dark&hide_border=true)
 
 ---
 
