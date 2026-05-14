@@ -30,6 +30,3 @@ I'm a 3rd-year ECE undergraduate at IIIT Tiruchirappalli focusing on data scienc
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Karangautam870&theme=dark&hide_border=true)
 
 ---
-
-## 📄 Resume
-🔗 [View Resume](https://drive.google.com/file/d/1hs1ctVrwQ4Gw-o2u1-RGmi8bQVk_EVEU/view?usp=sharing)
