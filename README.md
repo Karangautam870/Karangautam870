@@ -4,8 +4,6 @@ I'm a 3rd-year ECE undergraduate at IIIT Tiruchirappalli focusing on data scienc
 ## 🌐 Socials:
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karangautam870/) 
 * [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karangautam870@gmail.com)
-* ![Phone](https://img.shields.io/badge/+91-8318939987-303030?logo=phone&logoColor=white)
-
 ---
 
 
